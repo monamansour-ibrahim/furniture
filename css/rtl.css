@@ -1,0 +1,65 @@
+p, h3,h4,h5,h2,h1,li{
+    text-align:right;
+}
+.more .right img{
+    left:60px;
+}
+hr{
+   margin-right:0;
+}
+.chairs .item{
+    direction:rtl;
+   text-align:right;
+    
+    
+}
+
+.contact-us i{
+   position:absolute;
+   left:50px;
+    top:15px;
+}
+.contact-us .em{
+    position:relative;
+}
+.contact-us .mid{
+    margin-right:-25px
+}
+.contact-us .mid li{
+  margin-left:20px;
+}
+.contact p{
+    text-align:center;
+}
+.footer .icon {
+   margin-left:60px;
+}
+.mid h3{
+   margin-right:30px; 
+}
+.slick-slide{
+   direction:ltr;
+}
+.prodict{
+    text-align:right
+}
+@media(max-width:767px){
+    .heading .mid{
+      margin-left:-150px;
+    }
+    .heading .md{
+        margin-right:140px;
+    }
+    .heading .icon{
+        margin-top:0px;
+        margin-bottom:13px;
+    }
+    
+    .footer{
+        text-align:center;
+       
+    }
+    .footer p{
+        margin-right:110px;
+    }
+}
